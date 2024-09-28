@@ -4,7 +4,7 @@
 #include <sgg/graphics.h>
 
 Block::Block(float pos_x, float pos_y, float width, float height, const std::string& texture) :
-    GameObject("Pipe"), Box(pos_x, pos_y, width, height), m_texture(texture)
+    GameObject("Block"), Box(pos_x, pos_y, width, height), m_texture(texture)
 {
 }
 

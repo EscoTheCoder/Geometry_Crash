@@ -60,38 +60,49 @@ void Level::init() {
 
     for(int i = 0; i<150; i++){
         //m_extras.emplace_back((float)i, 5.50f, 1.0f, 1.0f, "Ground.png");
-        m_pipes.emplace_back((float)i, 5.50f, 1.0f, 1.0f, "obstacleSquare.png");
+        m_pipes.emplace_back((float)i, 5.50f, 1.0f, 1.1f, "obstacleSquare.png");
     }
 
+    m_extras.emplace_back(4.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
+    m_extras.emplace_back(7.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
     m_extras.emplace_back(8.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
     m_extras.emplace_back(14.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
-    m_pipes.emplace_back(15.0f, 4.50f, 1.0f, 1.0f, "Ground.png");
+    m_pipes.emplace_back(15.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
     m_extras.emplace_back(16.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
     m_extras.emplace_back(17.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
-    m_pipes.emplace_back(18.0f, 4.50f, 1.0f, 1.0f, "Ground.png");
-    m_pipes.emplace_back(18.0f, 3.50f, 1.0f, 1.0f, "Ground.png");
-
-    /*m_pipes.emplace_back(8.0f, 5.50f, 1.0f, 2.0f, "block.png");
-    m_pipes.emplace_back(11.0f, 5.50f, 1.0f, 4.0f, "block.png");
-    m_pipes.emplace_back(14.0f, 5.50f, 1.0f, 2.0f, "block.png");
-    m_pipes.emplace_back(17.0f, 5.50f, 1.0f, 3.0f, "block.png");
-    m_pipes.emplace_back(20.0f, 5.50f, 1.0f, 3.0f, "block.png");
-    m_pipes.emplace_back(23.0f, 5.50f, 1.0f, 4.0f, "block.png");
-    m_pipes.emplace_back(26.0f, 5.50f, 1.0f, 3.0f, "block.png");
-    m_pipes.emplace_back(29.0f, 5.50f, 1.0f, 2.0f, "block.png");
-    m_pipes.emplace_back(32.0f, 5.50f, 1.0f, 3.0f, "block.png");
-    m_pipes.emplace_back(35.0f, 5.50f, 1.0f, 3.0f, "block.png");
-    m_pipes.emplace_back(38.0f, 5.50f, 1.0f, 2.0f, "block.png");
-    m_pipes.emplace_back(41.0f, 5.50f, 1.0f, 4.0f, "block.png");
-    m_pipes.emplace_back(44.0f, 5.50f, 1.0f, 2.0f, "block.png");
-    m_pipes.emplace_back(47.0f, 5.50f, 1.0f, 3.0f, "block.png");
-    m_pipes.emplace_back(50.0f, 5.50f, 1.0f, 3.0f, "block.png");
-    m_pipes.emplace_back(53.0f, 5.50f, 1.0f, 4.0f, "block.png");
-    m_pipes.emplace_back(56.0f, 5.50f, 1.0f, 3.0f, "block.png");
-    m_pipes.emplace_back(59.0f, 5.50f, 1.0f, 2.0f, "block.png");
-    m_pipes.emplace_back(62.0f, 5.50f, 1.0f, 3.0f, "block.png");*/
-
-
+    m_pipes.emplace_back(18.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_extras.emplace_back(19.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
+    m_extras.emplace_back(20.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
+    m_pipes.emplace_back(21.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_pipes.emplace_back(21.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_extras.emplace_back(26.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
+    m_pipes.emplace_back(28.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_pipes.emplace_back(29.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_pipes.emplace_back(30.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_pipes.emplace_back(31.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_extras.emplace_back(32.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
+    m_extras.emplace_back(33.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
+    m_pipes.emplace_back(34.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_pipes.emplace_back(35.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_extras.emplace_back(36.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
+    m_pipes.emplace_back(37.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_pipes.emplace_back(37.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_extras.emplace_back(38.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
+    m_pipes.emplace_back(39.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_pipes.emplace_back(39.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_pipes.emplace_back(40.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_pipes.emplace_back(40.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_pipes.emplace_back(41.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_pipes.emplace_back(41.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_pipes.emplace_back(42.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_pipes.emplace_back(42.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_extras.emplace_back(42.0f, 2.8f, 0.5f, 0.5f, "obstacleTriangle.png");
+    m_pipes.emplace_back(43.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_pipes.emplace_back(43.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_pipes.emplace_back(44.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_pipes.emplace_back(44.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_pipes.emplace_back(45.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_pipes.emplace_back(45.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
 
 
 
@@ -99,18 +110,19 @@ void Level::init() {
         pipe.init();
     }
 
+    
     // Initialize coins
     m_coins.emplace_back(8.0f, 4.50f, 0.5f, 0.5f, "coin.png");
-    m_coins.emplace_back(32.0f, 3.2f, 1.0f, 1.0f, "coin.png");
-    m_coins.emplace_back(32.0f, 3.2f, 1.0f, 1.0f, "coin.png");
-    m_coins.emplace_back(62.0f, 3.2f, 1.0f, 1.0f, "coin.png");
+    m_coins.emplace_back(32.0f, 3.2f, 0.5f, 0.5f, "coin.png");
+    m_coins.emplace_back(32.0f, 3.2f, 0.5f, 0.5f, "coin.png");
+    m_coins.emplace_back(62.0f, 3.2f, 0.5f, 0.5f, "coin.png");
 
     for (auto& coin : m_coins) {
         coin.init();
     }
 
     //m_extras.emplace_back(75.0f, 3.2f, 2.0f, 5.0f, "do_not_stop_image.png");
-    m_extras.emplace_back(75.0f, 2.5f, 2.0f, 15.0f, "finish_line.png");
+    m_extras.emplace_back(75.0f, 2.5f, 2.0f, 15.0f, "portal.png");
 
     for (auto& extras : m_extras) {
         extras.init();
@@ -137,7 +149,7 @@ void Level::init() {
 
     m_coin_score.clear();
     for (int i = 0; i < m_lives; ++i) {
-        m_coin_score.emplace_back(coin_score_pos_x + i * (0.3f + coin_score_spacing), coin_score_pos_y, 0.3f, 0.3f, "coin_for_score.png"); // Example size of 0.3x0.3
+        m_coin_score.emplace_back(coin_score_pos_x + i * (0.3f + coin_score_spacing), coin_score_pos_y, 0.3f, 0.3f, "coin.png"); // Example size of 0.3x0.3
     }
 
     for (auto& coin_score : m_coin_score) {
@@ -159,7 +171,7 @@ void Level::update(float dt) {
 
 void Level::updateStartScreen() {
 
-    graphics::playSound(m_state->getFullAssetPath("music.wav"), 0.009f);
+    //graphics::playSound(m_state->getFullAssetPath("music.wav"), 0.009f);
 
     graphics::MouseState mouse;
     graphics::getMouseState(mouse);
@@ -240,8 +252,8 @@ void Level::draw() {
 void Level::drawStartScreen() {
     graphics::Brush br;
 
-    float w = m_state->getCanvasDimensions().first;
-    float h = m_state->getCanvasDimensions().second;
+    float w = m_state->getCanvasDimensions().first/4;
+    float h = m_state->getCanvasDimensions().second/4;
 
     float offset_x = m_state->m_global_offset_x / 2.0f + w / 2.0f;
     float offset_y = m_state->m_global_offset_y / 2.0f + h / 2.0f;
@@ -347,19 +359,19 @@ void Level::resetLevel() {
 
     // Reset coins
     m_coins.clear();
-    m_coins.emplace_back(5.0f, 3.2f, 1.0f, 1.0f, "coin.png");
-    m_coins.emplace_back(32.0f, 3.2f, 1.0f, 1.0f, "coin.png");
-    m_coins.emplace_back(62.0f, 3.2f, 1.0f, 1.0f, "coin.png");
+    m_coins.emplace_back(8.0f, 4.50f, 0.5f, 0.5f, "coin.png");
+    m_coins.emplace_back(32.0f, 3.2f, 0.5f, 0.5f, "coin.png");
+    m_coins.emplace_back(32.0f, 3.2f, 0.5f, 0.5f, "coin.png");
+    m_coins.emplace_back(62.0f, 3.2f, 0.5f, 0.5f, "coin.png");
 
     for (auto& coin : m_coins) {
         coin.init();
     }
 
     // Reset extras
-    //m_extras.emplace_back(75.0f, 3.2f, 2.0f, 5.0f, "do_not_stop_image.png");
-    m_extras.emplace_back(75.0f, 2.5f, 2.0f, 15.0f, "finish_line.png");
+
     for (auto& extras : m_extras) {
-        extras.init();
+        extras.reset();
     }
 
     // Reset hearts' position at the top-left corner
@@ -386,7 +398,7 @@ void Level::resetLevel() {
     float coin_score_spacing = 0.05f; // Space between hearts
 
     for (int i = 0; i < 3; ++i) { // <3 gia na einai panta 3 ta coins_for_score meta to reset
-        m_coin_score.emplace_back(coin_score_pos_x + i * (0.3f + coin_score_spacing), coin_score_pos_y, 0.3f, 0.3f, "coin_for_score.png"); // Example size of 0.3x0.3
+        m_coin_score.emplace_back(coin_score_pos_x + i * (0.3f + coin_score_spacing), coin_score_pos_y, 0.3f, 0.3f, "coin.png"); // Example size of 0.3x0.3
     }
 
     for (auto& coin_score : m_coin_score) {
@@ -406,101 +418,77 @@ void Level::checkCollisions() {
         return;
     }
 
+    bool isGrounded = false;  // To track if the player is on a block
+
     // Check pipe collisions
     for (auto& pipe : m_pipes) {
 
         float offset = 0.0f;
-        if (offset = player->intersectDown(pipe)) {
+
+        // First, check for vertical collision (standing on top of a pipe)
+        if ((offset = player->intersectDown(pipe)) != 0.0f) {
             player->m_pos_y += offset;
             player->set_velocity_y(0.0f);
-            //graphics::playSound(m_state->getFullAssetPath("hit.wav"), 0.5f);
-            //loseLife();
-            //m_game_paused = true;
+            isGrounded = true;  // Player is standing on a pipe
+        }
+
+        // Check for horizontal collision only if not grounded
+        if ((!isGrounded || isGrounded) && (offset = player->intersectSideways(pipe)) != 0.0f) {
+            player->m_pos_x -= offset;
+            loseLife();
+            m_game_paused = true;
             return;
         }
-        if (player->intersectSideways(pipe)) {
+    }
+
+    // Check coin collection outside the pipe loop for clarity
+    auto it = m_coins.begin();
+    while (it != m_coins.end()) {
+        if (player->intersect(*it)) {  // Player collects a coin
+            graphics::playSound(m_state->getFullAssetPath("point.wav"), 0.5f);
+            loseCoin();  // Decrease the coin count
+            it = m_coins.erase(it);  // Remove the collected coin
+        }
+        else {
+            ++it;  // Move to the next coin
+        }
+    }
+
+    // Check extra item collisions
+    for (auto& extra : m_extras) {
+        if (player->intersect(extra)) {  // Player collides with an extra item
             graphics::playSound(m_state->getFullAssetPath("hit.wav"), 0.5f);
             loseLife();
             m_game_paused = true;
             return;
         }
-
-        auto it = m_coins.begin();
-        while (it != m_coins.end()) {
-            if (player->intersect(*it)) {
-                graphics::playSound(m_state->getFullAssetPath("point.wav"), 0.5f);
-                loseCoin(); // Decrease the coin count
-                it = m_coins.erase(it); // Remove the collected coin
+    }
+    // Check extras collisions
+    auto itt = m_extras.begin();
+    while (itt != m_extras.end()) {
+        if (player->intersect(*itt)) {
+            if (itt->getTexture() == "portal.png") {
+                graphics::playSound(m_state->getFullAssetPath("game_over.wav"), 0.5f);
+                loseLife();
+                m_game_over = true; // End the game when the portal is hit
+                return;
             }
             else {
-                ++it;
-            }
-        }
-        for (auto& extra : m_extras) {
-            if (player->intersect(extra)) {
                 graphics::playSound(m_state->getFullAssetPath("hit.wav"), 0.5f);
                 loseLife();
                 m_game_paused = true;
-                return;
             }
         }
-        /*if (player->intersectSideways(pipe)) {
-            graphics::playSound(m_state->getFullAssetPath("hit.wav"), 0.5f);
-            loseLife();
-            m_game_paused = true;
-        }*/
+        else {
+            ++itt;
+        }
     }
-
-    // Check coin collisions
-    //auto it = m_coins.begin();
-    //while (it != m_coins.end()) {
-    //    if (player->intersect(*it)) {
-    //        //if (it->getTexture() == "finish_line.png") {
-    //        //    graphics::playSound(m_state->getFullAssetPath("point.wav"), 0.5f);
-    //        //    it = m_coins.erase(it); // Remove the finish line
-    //        //    m_game_over = true; // End the game when the finish line is hit
-    //        //    return;
-    //        //}
-    //        //else if (it->getTexture() == "do_not_stop_image.png") {
-    //        //    graphics::playSound(m_state->getFullAssetPath("lets_go.wav"), 0.5f);
-    //        //    it = m_coins.erase(it); // Remove the collected coin
-    //        //}
-
-    //        graphics::playSound(m_state->getFullAssetPath("point.wav"), 0.5f);
-    //        loseCoin(); // Decrease the coin count
-    //        it = m_coins.erase(it); // Remove the collected coin
-
-    //    }
-    //    else {
-    //        ++it;
-    //    }
-    //}
-
-    // Check extras collisions
-    //cout << m_extras.size()<<endl;
-    //auto itt = m_extras.begin();
-    //while (itt != m_extras.end()) {
-    //    if (player->intersect(*itt)) {
-    //        if (itt->getTexture() == "finish_line.png") {
-    //            graphics::playSound(m_state->getFullAssetPath("lets_go.wav"), 0.5f);
-    //            itt = m_extras.erase(itt); // Remove the finish line
-    //            m_game_over = true; // End the game when the finish line is hit
-    //            return;
-    //        }
-    //        graphics::playSound(m_state->getFullAssetPath("point.wav"), 0.5f);
-    //        loseCoin(); // Decrease the coin count
-    //        itt = m_extras.erase(itt); // Remove the collected extra
-
-    //    }
-    //    else {
-    //        ++itt;
-    //    }
-    //}
-
 
     // Check if the player hits the ground
     float floorY = m_state->getCanvasDimensions().second - 0.1f;
     if (player->m_pos_y > floorY) {
+        player->m_pos_y = floorY;  // Adjust the player's position to be on the ground
+        player->set_velocity_y(0.0f);  // Reset the vertical velocity
         graphics::playSound(m_state->getFullAssetPath("hit.wav"), 0.5f);
         loseLife();
         m_game_paused = true;

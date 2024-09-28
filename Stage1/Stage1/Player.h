@@ -17,7 +17,7 @@ private:
 
     // Movement and physics variables
     const float m_gravity = 10.0f;        // Gravity strength
-    const float m_jump_force = 5.0f;      // Jump force
+    const float m_jump_force = 6.0f;      // Jump force
     float m_velocity_y = 0.0f;            // Vertical velocity
     bool m_isJumping = false;             // Flag for checking if the player is jumping
 

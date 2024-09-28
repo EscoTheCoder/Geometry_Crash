@@ -12,12 +12,15 @@ Player::Player(const std::string& name) :
 }
 
 void Player::init() {
+    // Set the initial position for the player only when the game starts
     m_pos_x = m_state->getCanvasDimensions().first / 4.0f;  // Starting position (left side)
     m_pos_y = m_state->getCanvasDimensions().second / 2.0f;
-    m_velocity_y = 0.0f;
 
+    // Store the initial position only during the first init, not during resets
     m_initial_pos_x = m_pos_x;
     m_initial_pos_y = m_pos_y;
+
+    m_velocity_y = 0.0f; // Reset velocity
 
     m_brush_player.fill_opacity = 1.0f;
     m_brush_player.outline_opacity = 0.0f;
@@ -28,13 +31,15 @@ void Player::init() {
     SETCOLOR(m_brush_player_debug.outline_color, 0.0f, 0.0f, 1.0f);
 }
 
+
 void Player::reset() {
-    // ��������� ��� ����� ��� ������ ���� ������ ���������
+    // Reset player to the initial starting position and reset velocity
     m_pos_x = m_initial_pos_x;
     m_pos_y = m_initial_pos_y;
-    m_velocity_y = 0.0f; // ��������� ��� ���������
-    // �������� �� ����������� ����� �����������, ���� � ����������, �� ����������
+    m_velocity_y = 0.0f; // Reset velocity to zero when the game resets
+    m_isJumping = false; // Ensure jumping flag is reset
 }
+
 
 
 
