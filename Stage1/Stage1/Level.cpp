@@ -60,59 +60,59 @@ void Level::init() {
 
     for(int i = 0; i<150; i++){
         //m_extras.emplace_back((float)i, 5.50f, 1.0f, 1.0f, "Ground.png");
-        m_pipes.emplace_back((float)i, 5.50f, 1.0f, 1.1f, "obstacleSquare.png");
+        m_blocks.emplace_back((float)i, 5.50f, 1.1f, 1.1f, "obstacleSquare.png");
     }
 
     m_extras.emplace_back(4.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
     m_extras.emplace_back(7.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
-    m_extras.emplace_back(8.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
+    m_extras.emplace_back(7.5f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
     m_extras.emplace_back(14.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
-    m_pipes.emplace_back(15.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(15.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
     m_extras.emplace_back(16.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
     m_extras.emplace_back(17.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
-    m_pipes.emplace_back(18.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(18.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
     m_extras.emplace_back(19.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
     m_extras.emplace_back(20.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
-    m_pipes.emplace_back(21.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
-    m_pipes.emplace_back(21.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
-    m_extras.emplace_back(26.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
-    m_pipes.emplace_back(28.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
-    m_pipes.emplace_back(29.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
-    m_pipes.emplace_back(30.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
-    m_pipes.emplace_back(31.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(21.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(21.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_extras.emplace_back(27.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
+    m_blocks.emplace_back(28.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(29.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(30.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(31.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
     m_extras.emplace_back(32.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
     m_extras.emplace_back(33.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
-    m_pipes.emplace_back(34.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
-    m_pipes.emplace_back(35.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(34.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(35.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
     m_extras.emplace_back(36.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
-    m_pipes.emplace_back(37.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
-    m_pipes.emplace_back(37.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(37.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(37.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
     m_extras.emplace_back(38.0f, 4.8f, 0.5f, 0.5f, "obstacleTriangle.png");
-    m_pipes.emplace_back(39.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
-    m_pipes.emplace_back(39.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
-    m_pipes.emplace_back(40.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
-    m_pipes.emplace_back(40.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
-    m_pipes.emplace_back(41.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
-    m_pipes.emplace_back(41.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
-    m_pipes.emplace_back(42.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
-    m_pipes.emplace_back(42.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(39.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(39.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(40.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(40.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(41.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(41.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(42.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(42.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
     m_extras.emplace_back(42.0f, 2.8f, 0.5f, 0.5f, "obstacleTriangle.png");
-    m_pipes.emplace_back(43.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
-    m_pipes.emplace_back(43.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
-    m_pipes.emplace_back(44.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
-    m_pipes.emplace_back(44.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
-    m_pipes.emplace_back(45.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
-    m_pipes.emplace_back(45.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(43.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(43.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(44.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(44.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(45.0f, 4.50f, 1.0f, 1.1f, "obstacleSquare.png");
+    m_blocks.emplace_back(45.0f, 3.50f, 1.0f, 1.1f, "obstacleSquare.png");
 
 
 
-    for (auto& pipe : m_pipes) {
+    for (auto& pipe : m_blocks) {
         pipe.init();
     }
 
     
     // Initialize coins
-    m_coins.emplace_back(8.0f, 4.50f, 0.5f, 0.5f, "coin.png");
+    m_coins.emplace_back(21.0f, 2.5f, 0.5f, 0.5f, "coin.png");
     m_coins.emplace_back(32.0f, 3.2f, 0.5f, 0.5f, "coin.png");
     m_coins.emplace_back(32.0f, 3.2f, 0.5f, 0.5f, "coin.png");
     m_coins.emplace_back(62.0f, 3.2f, 0.5f, 0.5f, "coin.png");
@@ -122,7 +122,7 @@ void Level::init() {
     }
 
     //m_extras.emplace_back(75.0f, 3.2f, 2.0f, 5.0f, "do_not_stop_image.png");
-    m_extras.emplace_back(75.0f, 2.5f, 2.0f, 15.0f, "portal.png");
+    m_extras.emplace_back(75.0f, 2.5f, 2.0f, 2.0f, "portal.png");
 
     for (auto& extras : m_extras) {
         extras.init();
@@ -135,7 +135,7 @@ void Level::init() {
 
     m_hearts.clear();
     for (int i = 0; i < m_lives; ++i) {
-        m_hearts.emplace_back(heart_pos_x + i * (0.3f + heart_spacing), heart_pos_y, 0.3f, 0.3f, "heart.png"); // Example size of 0.3x0.3
+        m_hearts.emplace_back(heart_pos_x + i * (0.3f + heart_spacing), heart_pos_y, 0.3f, 0.3f, "heart_2.png"); // Example size of 0.3x0.3
     }
 
     for (auto& heart : m_hearts) {
@@ -211,7 +211,7 @@ void Level::updateLevelScreen(float dt) {
     }
 
     // Update pipes
-    for (auto& pipe : m_pipes) {
+    for (auto& pipe : m_blocks) {
         pipe.update(dt);
     }
 
@@ -286,7 +286,7 @@ void Level::drawLevelScreen() {
         }
 
         // Draw pipes
-        for (auto& pipe : m_pipes) {
+        for (auto& pipe : m_blocks) {
             pipe.draw();
         }
 
@@ -353,13 +353,13 @@ void Level::resetLevel() {
     player->reset();
 
     // Reset pipes
-    for (auto& pipe : m_pipes) {
+    for (auto& pipe : m_blocks) {
         pipe.reset();
     }
 
     // Reset coins
     m_coins.clear();
-    m_coins.emplace_back(8.0f, 4.50f, 0.5f, 0.5f, "coin.png");
+    m_coins.emplace_back(21.0f, 2.5f, 0.5f, 0.5f, "coin.png");
     m_coins.emplace_back(32.0f, 3.2f, 0.5f, 0.5f, "coin.png");
     m_coins.emplace_back(32.0f, 3.2f, 0.5f, 0.5f, "coin.png");
     m_coins.emplace_back(62.0f, 3.2f, 0.5f, 0.5f, "coin.png");
@@ -368,7 +368,6 @@ void Level::resetLevel() {
         coin.init();
     }
 
-    // Reset extras
 
     for (auto& extras : m_extras) {
         extras.reset();
@@ -382,7 +381,7 @@ void Level::resetLevel() {
     float heart_spacing = 0.05f; // Space between hearts
 
     for (int i = 0; i < m_lives; ++i) {
-        m_hearts.emplace_back(heart_pos_x + i * (0.3f + heart_spacing), heart_pos_y, 0.3f, 0.3f, "heart.png"); // Example size of 0.3x0.3
+        m_hearts.emplace_back(heart_pos_x + i * (0.3f + heart_spacing), heart_pos_y, 0.3f, 0.3f, "heart_2.png"); // Example size of 0.3x0.3
     }
 
     for (auto& heart : m_hearts) {
@@ -421,7 +420,7 @@ void Level::checkCollisions() {
     bool isGrounded = false;  // To track if the player is on a block
 
     // Check pipe collisions
-    for (auto& pipe : m_pipes) {
+    for (auto& pipe : m_blocks) {
 
         float offset = 0.0f;
 

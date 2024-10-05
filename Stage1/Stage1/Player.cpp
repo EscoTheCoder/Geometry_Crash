@@ -20,11 +20,11 @@ void Player::init() {
     m_initial_pos_x = m_pos_x;
     m_initial_pos_y = m_pos_y;
 
-    m_velocity_y = 0.0f; // Reset velocity
+    m_velocity_y = 0.0f; // Reset velocity0
 
     m_brush_player.fill_opacity = 1.0f;
     m_brush_player.outline_opacity = 0.0f;
-    m_brush_player.texture = m_state->getFullAssetPath("blob.png");
+    m_brush_player.texture = m_state->getFullAssetPath("lap_phuong_3.png");
 
     m_brush_player_debug.fill_opacity = 0.1f;
     SETCOLOR(m_brush_player_debug.fill_color, 1.0f, 0.0f, 0.0f);

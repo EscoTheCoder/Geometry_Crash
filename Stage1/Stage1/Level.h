@@ -17,7 +17,7 @@ private:
     graphics::Brush m_brush_background;  // Brush for the game background
     graphics::Brush m_brush_ending_background;  // Brush for the ending background
 
-    std::vector<Block> m_pipes;           // List of pipes in the level
+    std::vector<Block> m_blocks;           // List of pipes in the level
     std::vector<Coin> m_coins;           // List of coins in the level
     std::vector<Extras> m_extras;
 

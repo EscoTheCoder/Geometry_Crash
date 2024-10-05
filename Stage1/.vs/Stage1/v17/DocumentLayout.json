@@ -3,52 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\Level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Extras.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\Extras.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Extras.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\Extras.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\Block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Extras.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\Extras.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Coin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\Coin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\box.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\box.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\Level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Level.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\Level.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Coin_Score.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\Coin_Score.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\Block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\GameState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\GameState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\GameState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\GameState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\GameState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\GameState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Hearts.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\Hearts.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Coin_Score.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\Coin_Score.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Coin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -59,28 +67,20 @@
       "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\Hearts.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Coin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\Coin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\box.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\box.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Coin_Score.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\Coin_Score.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Hearts.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\Hearts.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Coin_Score.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\Coin_Score.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{59E0A321-DC30-4D8E-B748-5E80B6A00990}|Stage1\\Stage1.vcxproj|solutionrelative:Stage1\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 282,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,136 +98,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Level.cpp",
               "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Level.cpp",
               "RelativeDocumentMoniker": "Stage1\\Level.cpp",
               "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Level.cpp",
               "RelativeToolTip": "Stage1\\Level.cpp",
-              "ViewState": "AgIAAL4BAAAAAAAAAAAAAN8BAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAMkBAAAAAAAAAAAUwNIBAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-23T22:21:18.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Player.h",
-              "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Player.h",
-              "RelativeDocumentMoniker": "Stage1\\Player.h",
-              "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Player.h",
-              "RelativeToolTip": "Stage1\\Player.h",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-23T22:05:01.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Coin.h",
-              "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Coin.h",
-              "RelativeDocumentMoniker": "Stage1\\Coin.h",
-              "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Coin.h",
-              "RelativeToolTip": "Stage1\\Coin.h",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-27T07:38:09.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Block.h",
-              "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Block.h",
-              "RelativeDocumentMoniker": "Stage1\\Block.h",
-              "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Block.h",
-              "RelativeToolTip": "Stage1\\Block.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-23T16:41:25.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Hearts.cpp",
-              "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Hearts.cpp",
-              "RelativeDocumentMoniker": "Stage1\\Hearts.cpp",
-              "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Hearts.cpp",
-              "RelativeToolTip": "Stage1\\Hearts.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-27T07:40:31.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Extras.cpp",
-              "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Extras.cpp",
-              "RelativeDocumentMoniker": "Stage1\\Extras.cpp",
-              "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Extras.cpp",
-              "RelativeToolTip": "Stage1\\Extras.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-27T07:43:51.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Player.cpp",
-              "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Player.cpp",
-              "RelativeDocumentMoniker": "Stage1\\Player.cpp",
-              "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Player.cpp",
-              "RelativeToolTip": "Stage1\\Player.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-23T22:03:09.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Extras.h",
-              "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Extras.h",
-              "RelativeDocumentMoniker": "Stage1\\Extras.h",
-              "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Extras.h",
-              "RelativeToolTip": "Stage1\\Extras.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-27T07:43:44.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Coin.cpp",
-              "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Coin.cpp",
-              "RelativeDocumentMoniker": "Stage1\\Coin.cpp",
-              "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Coin.cpp",
-              "RelativeToolTip": "Stage1\\Coin.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAgwD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-27T07:38:17.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Level.h",
               "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Level.h",
               "RelativeDocumentMoniker": "Stage1\\Level.h",
               "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Level.h",
               "RelativeToolTip": "Stage1\\Level.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-23T22:36:30.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T22:36:30.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "util.h",
               "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\util.h",
               "RelativeDocumentMoniker": "Stage1\\util.h",
@@ -235,12 +131,11 @@
               "RelativeToolTip": "Stage1\\util.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-23T22:41:20.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T22:41:20.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "GameState.cpp",
               "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\GameState.cpp",
               "RelativeDocumentMoniker": "Stage1\\GameState.cpp",
@@ -248,12 +143,11 @@
               "RelativeToolTip": "Stage1\\GameState.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-23T15:54:35.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T15:54:35.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "GameState.h",
               "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\GameState.h",
               "RelativeDocumentMoniker": "Stage1\\GameState.h",
@@ -261,12 +155,11 @@
               "RelativeToolTip": "Stage1\\GameState.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-23T15:54:37.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T15:54:37.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "box.h",
               "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\box.h",
               "RelativeDocumentMoniker": "Stage1\\box.h",
@@ -274,12 +167,11 @@
               "RelativeToolTip": "Stage1\\box.h",
               "ViewState": "AgIAABAAAAAAAAAAAAAAwCEAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-23T22:36:07.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T22:36:07.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "GameObject.cpp",
               "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\GameObject.cpp",
               "RelativeDocumentMoniker": "Stage1\\GameObject.cpp",
@@ -291,19 +183,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 9,
+              "Title": "Hearts.h",
+              "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Hearts.h",
+              "RelativeDocumentMoniker": "Stage1\\Hearts.h",
+              "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Hearts.h",
+              "RelativeToolTip": "Stage1\\Hearts.h",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-27T07:40:19.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\main.cpp",
+              "RelativeDocumentMoniker": "Stage1\\main.cpp",
+              "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\main.cpp",
+              "RelativeToolTip": "Stage1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-23T15:53:28.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Extras.h",
+              "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Extras.h",
+              "RelativeDocumentMoniker": "Stage1\\Extras.h",
+              "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Extras.h",
+              "RelativeToolTip": "Stage1\\Extras.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-27T07:43:44.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Extras.cpp",
+              "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Extras.cpp",
+              "RelativeDocumentMoniker": "Stage1\\Extras.cpp",
+              "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Extras.cpp",
+              "RelativeToolTip": "Stage1\\Extras.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T07:43:51.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Coin_Score.cpp",
               "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Coin_Score.cpp",
               "RelativeDocumentMoniker": "Stage1\\Coin_Score.cpp",
               "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Coin_Score.cpp",
               "RelativeToolTip": "Stage1\\Coin_Score.cpp",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-27T07:39:08.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 16,
+              "Title": "Coin.cpp",
+              "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Coin.cpp",
+              "RelativeDocumentMoniker": "Stage1\\Coin.cpp",
+              "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Coin.cpp",
+              "RelativeToolTip": "Stage1\\Coin.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T07:38:17.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "test.txt",
               "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\test.txt",
               "RelativeDocumentMoniker": "Stage1\\test.txt",
@@ -315,39 +269,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 6,
+              "Title": "Block.h",
+              "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Block.h",
+              "RelativeDocumentMoniker": "Stage1\\Block.h",
+              "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Block.h",
+              "RelativeToolTip": "Stage1\\Block.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-23T16:41:25.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Player.h",
+              "RelativeDocumentMoniker": "Stage1\\Player.h",
+              "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Player.h",
+              "RelativeToolTip": "Stage1\\Player.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-23T22:05:01.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Hearts.cpp",
+              "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Hearts.cpp",
+              "RelativeDocumentMoniker": "Stage1\\Hearts.cpp",
+              "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Hearts.cpp",
+              "RelativeToolTip": "Stage1\\Hearts.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T07:40:31.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Player.cpp",
+              "RelativeDocumentMoniker": "Stage1\\Player.cpp",
+              "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Player.cpp",
+              "RelativeToolTip": "Stage1\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-23T22:03:09.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Coin_Score.h",
               "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Coin_Score.h",
               "RelativeDocumentMoniker": "Stage1\\Coin_Score.h",
               "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Coin_Score.h",
               "RelativeToolTip": "Stage1\\Coin_Score.h",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-27T07:38:40.966Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Hearts.h",
-              "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Hearts.h",
-              "RelativeDocumentMoniker": "Stage1\\Hearts.h",
-              "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Hearts.h",
-              "RelativeToolTip": "Stage1\\Hearts.h",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwAgAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "Coin.h",
+              "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Coin.h",
+              "RelativeDocumentMoniker": "Stage1\\Coin.h",
+              "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\Coin.h",
+              "RelativeToolTip": "Stage1\\Coin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-27T07:40:19.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\main.cpp",
-              "RelativeDocumentMoniker": "Stage1\\main.cpp",
-              "ToolTip": "C:\\Users\\nikolas\\Desktop\\Game_Sxolh\\Stage1\\Stage1\\main.cpp",
-              "RelativeToolTip": "Stage1\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-23T15:53:28.467Z"
+              "WhenOpened": "2024-09-27T07:38:09.801Z"
             }
           ]
         }

@@ -11,7 +11,7 @@ private:
     graphics::Brush m_coin_brush;
     graphics::Brush m_coin_brush_debug;
     std::string m_texture;
-    const float m_coin_speed = 5.0f;
+    const float m_coin_speed = 2.0f;
 
 public:
     // Constructor

@@ -23,7 +23,7 @@ void init() {
 
 int main(int argc, char** argv) {
 
-	graphics::createWindow(800, 800, "Sin Boy Platformer");
+	graphics::createWindow(800, 800, "Geometry Crash Platformer");
 
 	init();
 

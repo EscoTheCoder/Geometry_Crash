@@ -55,7 +55,7 @@ void Extras::draw() {
     graphics::drawRect(m_pos_x, m_pos_y, m_width, m_height, m_extras_brush);
 
     if (m_state->m_debugging) {
-        graphics::drawRect(m_pos_x, m_pos_y, m_width, m_height, m_extras_brush_debug);
+        graphics::drawRect(m_pos_x, m_pos_y, m_width*0.8, m_height * 0.8, m_extras_brush_debug);
     }
 }
 
