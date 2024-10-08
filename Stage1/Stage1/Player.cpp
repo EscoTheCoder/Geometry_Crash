@@ -28,7 +28,7 @@ void Player::init() {
 
     m_brush_player_debug.fill_opacity = 0.1f;
     SETCOLOR(m_brush_player_debug.fill_color, 1.0f, 0.0f, 0.0f);
-    SETCOLOR(m_brush_player_debug.outline_color, 0.0f, 0.0f, 1.0f);
+    SETCOLOR(m_brush_player_debug.outline_color, 1.0f, 0.0f, 0.0f);
 }
 
 

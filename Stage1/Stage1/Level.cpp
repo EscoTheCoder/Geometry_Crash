@@ -114,7 +114,6 @@ void Level::init() {
     // Initialize coins
     m_coins.emplace_back(21.0f, 2.5f, 0.5f, 0.5f, "coin.png");
     m_coins.emplace_back(32.0f, 3.2f, 0.5f, 0.5f, "coin.png");
-    m_coins.emplace_back(32.0f, 3.2f, 0.5f, 0.5f, "coin.png");
     m_coins.emplace_back(62.0f, 3.2f, 0.5f, 0.5f, "coin.png");
 
     for (auto& coin : m_coins) {
@@ -176,7 +175,7 @@ void Level::updateStartScreen() {
     graphics::MouseState mouse;
     graphics::getMouseState(mouse);
 
-    if (graphics::getKeyState(graphics::SCANCODE_SPACE) || mouse.button_left_pressed) {
+    if (mouse.button_left_pressed) {
 
         status = STATUS_PLAYING;
     }
@@ -189,7 +188,7 @@ void Level::updateLevelScreen(float dt) {
         graphics::MouseState mouse;
         graphics::getMouseState(mouse);
 
-        if (graphics::getKeyState(graphics::SCANCODE_SPACE) || mouse.button_left_pressed) {
+        if (mouse.button_left_pressed) {
             resetLevel();
         }
         return;
@@ -361,7 +360,6 @@ void Level::resetLevel() {
     m_coins.clear();
     m_coins.emplace_back(21.0f, 2.5f, 0.5f, 0.5f, "coin.png");
     m_coins.emplace_back(32.0f, 3.2f, 0.5f, 0.5f, "coin.png");
-    m_coins.emplace_back(32.0f, 3.2f, 0.5f, 0.5f, "coin.png");
     m_coins.emplace_back(62.0f, 3.2f, 0.5f, 0.5f, "coin.png");
 
     for (auto& coin : m_coins) {
@@ -433,6 +431,7 @@ void Level::checkCollisions() {
 
         // Check for horizontal collision only if not grounded
         if ((!isGrounded || isGrounded) && (offset = player->intersectSideways(pipe)) != 0.0f) {
+            graphics::playSound(m_state->getFullAssetPath("hit.wav"), 0.5f);
             player->m_pos_x -= offset;
             loseLife();
             m_game_paused = true;
@@ -444,7 +443,7 @@ void Level::checkCollisions() {
     auto it = m_coins.begin();
     while (it != m_coins.end()) {
         if (player->intersect(*it)) {  // Player collects a coin
-            graphics::playSound(m_state->getFullAssetPath("point.wav"), 0.5f);
+            graphics::playSound(m_state->getFullAssetPath("coin.wav"), 0.5f);
             loseCoin();  // Decrease the coin count
             it = m_coins.erase(it);  // Remove the collected coin
         }
